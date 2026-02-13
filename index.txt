@@ -1,0 +1,58 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Future Boutique</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!--Header Section -->
+  <header>
+      <h1>My Retail store </h1>
+     <p>Your one-stop shop for quality products</p>
+
+</header>
+
+<-- Navigation -->
+<nav>
+    <a href ="#">Home</a>
+    <a href="#">Products</a>
+    <a href="#">About Us</a>
+    <a href="#">Contact</a>
+</nav>
+
+
+<!-- Main Content -->
+<main>
+
+    <section>
+       <h2>Welcome</h2>
+       <p>
+
+          welcome to our store where we offer high quality products and services. We offer varies products at an affordable price. Customers satisfaction is or highest priority.
+
+</p> 
+<section>
+    <h2>Featured Products</h2>
+
+    <div class="product">
+    <h3>Product One</h3>
+    <p>High quality product at a great price.</p>
+</div>
+
+<div class="product">
+     <h3>Product Two</h3>
+     <p>Highly bought by our customers.</p>
+
+<div class="product">
+     <h3>Product Three</h3>
+     <p>Limited stock available.</p>
+  </div>
+</section>
+
+
+</main>
+
+<!--Footer -->
+<footer>
+<p>&copy 2026 my Future Boutique. All rights  reserved.</p>
